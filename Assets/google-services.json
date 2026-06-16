@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "49508624421",
+    "firebase_url": "https://aorta-7390e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aorta-7390e",
+    "storage_bucket": "aorta-7390e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49508624421:android:0de518b1f011b7c89c37cc",
+        "android_client_info": {
+          "package_name": "com.FilipposObrijanu_Aorta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0EpYiSGv9X-YzGYfBRBn9d34SNW2QQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49508624421:android:a60b557c608117ac9c37cc",
+        "android_client_info": {
+          "package_name": "com.a.saassssss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0EpYiSGv9X-YzGYfBRBn9d34SNW2QQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49508624421:android:18e40d0afbebdb909c37cc",
+        "android_client_info": {
+          "package_name": "com.yourname.aorta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT0EpYiSGv9X-YzGYfBRBn9d34SNW2QQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
