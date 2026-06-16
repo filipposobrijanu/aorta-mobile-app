@@ -41,12 +41,15 @@
 ### 📸 Architecture & Systems Showcase
 
 <p align="center">
-  <img src="Images/1.PNG" width="48%" alt="Baseline Interface View" />
-  <img src="Images/2.PNG" width="48%" alt="Personalized Assessment View" />
+  <img src="Images/0.jpg" width="48%" alt="Baseline Interface View" />
+  <img src="Images/1.jpg" width="48%" alt="Personalized Assessment View" />
 </p>
 <p align="center">
-  <img src="Images/3.PNG" width="48%" alt="Localization and Input Validation Test" />
-  <img src="Images/4.PNG" width="48%" alt="Google Firebase Realtime Console Synchronization" />
+  <img src="Images/2.jpg" width="48%" alt="Localization and Input Validation Test" />
+  <img src="Images/3.jpg" width="48%" alt="Google Firebase Realtime Console Synchronization" />
+</p>
+<p align="center">
+  <img src="Images/5.jpg" width="97%" alt="Localization and Input Validation Test" />
 </p>
 
 ---
