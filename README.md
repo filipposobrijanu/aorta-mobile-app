@@ -13,16 +13,6 @@
 
 ---
 
-### Core Features
-
-* **Dual-Layered Clinical Diagnostic Pipeline:** Implements two distinct operational validation frameworks:
-  * **Baseline Assessment Module:** Evaluates raw systolic and diastolic arterial pressures utilizing the explicit logical boundaries mapped by the *American Heart Association (AHA)*.
-  * **Personalized Analysis Engine:** Bypasses static physiological limits by executing a multi-parametric validation matrix.
-* **Dynamic Runtime Internationalization:** Features an in-engine dynamic localization system supporting instantaneous, zero-reload UI updates between English and Greek by hot-swapping `TextMeshPro` resource configurations on the fly.
-* **Input Validation & Exception Handling:** Enforces strict structural integrity on input arrays, preventing memory exceptions and UI crashes.
-
----
-
 ### Technical Stack
 
 **Engine, Logic & Cloud Infrastructure**
