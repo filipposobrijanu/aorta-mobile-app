@@ -1,8 +1,8 @@
 <h1 align="center">Aorta App</h1>
-<h3 align="center">Cross-Platform Medical Informatics Mobile Application | Built with Unity & C#</h3>
+<h3 align="center">Medical Informatics Mobile Application | Built with Unity & C#</h3>
 
 <p align="center">
-  A highly responsive, production-ready mobile application designed for real-time cardiovascular risk assessment. Utilizing a dual-layered algorithmic evaluation pipeline, <strong>Aorta App</strong> cross-references user biometric profiles against international clinical standards, integrating local low-latency caching alongside asynchronous cloud synchronization.
+  A highly responsive mobile application designed for cardiovascular risk assessment. Utilizing a dual-layered algorithmic evaluation pipeline.
 </p>
 
 <p align="center">
@@ -13,20 +13,17 @@
 
 ---
 
-### ✨ Core Features
+### Core Features
 
 * **Dual-Layered Clinical Diagnostic Pipeline:** Implements two distinct operational validation frameworks:
   * **Baseline Assessment Module:** Evaluates raw systolic and diastolic arterial pressures utilizing the explicit logical boundaries mapped by the *American Heart Association (AHA)*.
-  * **Personalized Analysis Engine:** Bypasses static physiological limits by executing a multi-parametric validation matrix. It combines hemodynamic metrics with demographic profiles (Age and Gender) backed by *European Society of Cardiology (ESC)* guidelines and the *Baptist Health Clinical Reference Chart* to account for age-induced arterial stiffness.
-* **Hybrid Data Persistence Architecture:** Orchestrates a reliable storage matrix using a split caching paradigm:
-  * **Local State Management:** Persists vital sign session metrics natively using Unity's `PlayerPrefs` subsystem to prevent session data loss.
-  * **Asynchronous Remote Cloud Telemetry:** Establishes a non-blocking Client-Server network pipeline executing asynchronous payloads to a *Google Firebase Realtime Database* backend cluster, persisting diagnostic data in scalable, un-nested JSON trees.
-* **Dynamic Runtime Internationalization (i18n):** Features an in-engine dynamic localization system supporting instantaneous, zero-reload UI updates between English and Greek languages by hot-swapping `TextMeshPro` resource configurations on the fly.
-* **Robust Input Validation & Exception Handling:** Enforces strict structural integrity on input arrays using fault-tolerant parsing routines (`int.TryParse`), preventing memory exceptions and UI crashes during anomalous user inputs.
+  * **Personalized Analysis Engine:** Bypasses static physiological limits by executing a multi-parametric validation matrix.
+* **Dynamic Runtime Internationalization:** Features an in-engine dynamic localization system supporting instantaneous, zero-reload UI updates between English and Greek by hot-swapping `TextMeshPro` resource configurations on the fly.
+* **Input Validation & Exception Handling:** Enforces strict structural integrity on input arrays, preventing memory exceptions and UI crashes.
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Engine, Logic & Cloud Infrastructure**
 <p align="left">
@@ -38,7 +35,7 @@
 
 ---
 
-### 📸 Architecture & Systems Showcase
+### Architecture & Systems Showcase
 
 <p align="center">
   <img src="images/0.jpg" width="48%" alt="Baseline Interface View" />
@@ -54,7 +51,7 @@
 
 ---
 
-### 🚀 How to Run & Build
+### How to Run & Build
 
 **1. Clone the repository:**
 ```bash
